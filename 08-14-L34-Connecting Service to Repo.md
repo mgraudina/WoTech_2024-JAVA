@@ -1,0 +1,1 @@
+Lesson 34, Topic: Practical side of connecting Service to Repo1. Connecting UserService with UserRepo2. Adding a method for UserRepo to add a new User to ArrayList3. Making sure the User get's added to fake DB by returning the size of ArrayList
