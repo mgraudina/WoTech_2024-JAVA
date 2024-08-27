@@ -108,6 +108,11 @@ It is like a temporary instance of the User class. It's only purpose is to carry
 
 ![08-15-Screenshot 2024-08-15 185708](https://github.com/user-attachments/assets/77497c33-3cdf-4a60-b59b-a8c04e5a8806)
 
+------
+*To update an entity in database, we must use DTO that comes from payload  
+DTO stands for data transfer object, an object, that transfers data from frontend to backend  
+Database server IS NOT the same as repository server*  
+
 #### TEAMWORK
 ------------
 
